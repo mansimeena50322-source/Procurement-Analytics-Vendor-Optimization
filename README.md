@@ -122,3 +122,4 @@ python scripts/get_vendor_summary.py
 5. Open and run notebooks:
    - `notebooks/EDA.ipynb`
    - `notebooks/vendor_performance_analysis.ipynb`
+
